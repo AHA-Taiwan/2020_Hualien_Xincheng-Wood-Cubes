@@ -14,7 +14,7 @@
 
 * Google Map 位置：https://goo.gl/maps/1xXWhuGrgCMGqCAQ6  <br/>
 
-![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_GMap.png)
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Gmap.png)
 ***
 ## 專案介紹：<br/>
 
