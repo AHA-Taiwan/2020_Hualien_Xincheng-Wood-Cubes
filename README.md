@@ -75,7 +75,7 @@ Digital Model Link: https://skfb.ly/opvKP
 <br/>
 單元件 03 組裝（Constr-Process of Unit 03）<br/>
 <br/>
-![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XSW_Unit%2003.gif)
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XWS_Unit%2003.gif)
 <br/>
 <br/>
 ***
