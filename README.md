@@ -34,7 +34,27 @@ Digital Model Link: https://skfb.ly/opvDT
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_03.png)
 <br/>
 <br/>
-
+單元件 01（Unit 01）<br/>
+Digital Model Link: https://skfb.ly/opvIR
+<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_Unit%2001.png)
+<br/>
+<br/>
+單元件 02（Unit 02）<br/>
+Digital Model Link: https://skfb.ly/opvJn
+<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_Unit%2002.png)
+<br/>
+<br/>
+單元件 03（Unit 03）<br/>
+Digital Model Link: https://skfb.ly/opvKP
+<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_Unit%2003.png)
+<br/>
+<br/>
 ***
 ## 如何達成合作建造：<br/>
 * 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
