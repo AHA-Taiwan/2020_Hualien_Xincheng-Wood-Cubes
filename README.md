@@ -36,7 +36,6 @@ Digital Model Link: https://skfb.ly/opvDT
 <br/>
 主體組裝（Constr-Process of the Main Body）<br/>
 <br/>
-<br/>
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XSW_Main%20Body_Unit%2001.gif)
 <br/>
 <br/>
