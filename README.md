@@ -63,6 +63,21 @@ Digital Model Link: https://skfb.ly/opvKP
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_Unit%2003.png)
 <br/>
 <br/>
+單元件 01 組裝（Constr-Process of Unit 01）<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XSW_Main%20Body_Unit%2001.gif)
+<br/>
+<br/>
+單元件 02 組裝（Constr-Process of Unit 02）<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XWS_Unit%2002.gif)
+<br/>
+<br/>
+單元件 03 組裝（Constr-Process of Unit 03）<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XSW_Unit%2003.gif)
+<br/>
+<br/>
 ***
 ## 如何達成合作建造：<br/>
 * 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
