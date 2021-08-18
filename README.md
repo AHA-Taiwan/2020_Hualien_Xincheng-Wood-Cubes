@@ -19,11 +19,22 @@
 ## 專案介紹：<br/>
 
 * 主要建材：台灣杉 [18.6 x 4.5 x 360 cm] 尺寸。
-* 數位模型［整體木構3D］：https://skfb.ly/op8NG
+* 數位模型［整體木構3D］：
 
-![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_Sketchfab_Model/CBMC_Sketchfab_Model.png)
+主體（Main Body）<br/>
+Digital Model Link: https://skfb.ly/opvDT
 <br/>
 <br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_01.png)
+<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_02.png)
+<br/>
+<br/>
+![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_03.png)
+<br/>
+<br/>
+
 ***
 ## 如何達成合作建造：<br/>
 * 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
