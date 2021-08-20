@@ -10,7 +10,8 @@
 ## 基地環境：<br/>
 台灣東南地區，北回歸線以南，有焚風、颱風、東北季風，海風具高度鹽分，設計時需注意材料防潮防蝕保護。<br/>
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/Town/Town.html?TID=1001504 <br/>
-* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=C0Z180&stname=%25E6%2596%25B0%25E5%259F%258E&datepicker=2021-08-14 <br/>
+* 氣象觀測歷史紀錄：<br/>
+https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=C0Z180&stname=%25E6%2596%25B0%25E5%259F%258E&datepicker=2021-08-14 <br/>
 
 * 花蓮縣縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>
  （取自交通部中央氣象局，統計期間為 1991-2020 年）<br/>
@@ -23,8 +24,8 @@
 ***
 ## 專案介紹：<br/>
 
-* 主要建材：台灣杉 [18.6 x 4.5 x 360 cm] 尺寸。
-* 數位模型［整體木構3D］：
+* 主要建材：台灣杉 [ 18.6 x 4.5 x 360 cm ] 尺寸。
+* 數位模型［ 整體木構 3D ］：
 
 主體（Main Body）<br/>
 Digital Model Link: https://skfb.ly/opvDT
