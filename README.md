@@ -40,7 +40,7 @@ Digital Model Link: https://skfb.ly/opvDT
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_03.png)
 <br/>
 <br/>
-主體組裝（Constr-Process of the Main Body）<br/>
+主體組裝（Construction Process of the Main Body）<br/>
 <br/>
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XSW_Main%20Body_Unit%2001.gif)
 <br/>
@@ -69,12 +69,12 @@ Digital Model Link: https://skfb.ly/opvKP
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XWS_Sketchfab_Model/XWS_Sketchfab_Model_Unit%2003.png)
 <br/>
 <br/>
-單元件 01 組裝（Constr-Process of Unit 01）<br/>
+單元件 01 組裝（Construction Process of Unit 01）<br/>
 <br/>
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XSW_Main%20Body_Unit%2001.gif)
 <br/>
 <br/>
-單元件 02 組裝（Constr-Process of Unit 02）<br/>
+單元件 02 組裝（Construction Process of Unit 02）<br/>
 <br/>
 ![image](https://github.com/AHA-Taiwan/2020_Hualien_Xincheng-Wood-Squares/blob/main/002.%20Handbook/Constr-Process%20Steps%20(.gif)/XWS_Unit%2002.gif)
 <br/>
