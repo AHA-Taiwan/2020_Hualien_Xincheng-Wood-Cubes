@@ -1,5 +1,5 @@
 # 2020｜花蓮新城｜琴鍵木立方
-## Xincheng Wood Squares
+## _Xincheng Wood Cubes_
 
 >Humanitarian Architecture in Hualien<br/>
 >
